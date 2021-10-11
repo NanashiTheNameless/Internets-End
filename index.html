@@ -1,10 +1,6 @@
 <html>
 <head>
 <title>End of the Internet</title>
-<script type="text/javascript">
-_uacct = "UA-422707-2";
-urchinTracker();
-</script>
 </head>
 <body>
 <p align=center><font size=+4>Congratulations!</font>
