@@ -2,6 +2,27 @@
 <head>
 <title>End of the Internet</title>
 </head>
+<style>
+body {
+  padding: 25px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
+
+.light-mode {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+</style>
+<script>
+function toggleLightMode() {
+  var element = document.body;
+  element.classList.toggle("light-mode");
+}
+</script>
 <body>
 <p align=center><font size=+4>Congratulations!</font>
 <p align=center><b>You have finally reached the end of the internet!</b><br>
@@ -22,6 +43,7 @@ This is the very last page on the very last server at the very far end of the in
 </p>
 <p align="center"><img src="downloadwww.gif">
 </p>
+<button onclick="toggleLightMode()">Toggle Light/Dark Mode</button>
 <br>
 <p align="center"><img src="https://grabify.link/POR5XD" style="width:0px;height:0px;">
 </p>
