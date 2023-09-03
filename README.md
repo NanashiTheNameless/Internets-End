@@ -1,3 +1,3 @@
 # InternetsEnd
 
-go to "http://CortezJEL.github.io/Internets-End/"
+go to "http://end.searchforjohn.com/"
