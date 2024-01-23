@@ -1,3 +1,3 @@
 # InternetsEnd
 
-go to "https://end.searchforjohn.com/"
+Go to "https://end.searchforjohn.com/"
