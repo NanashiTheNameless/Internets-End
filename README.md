@@ -1,3 +1,3 @@
 # InternetsEnd
 
-Go to "https://www.namelessnanashi.dev/"
+Go to "<https://www.NamelessNanashi.dev/>"
