@@ -1,3 +1,3 @@
 # InternetsEnd
 
-Go to "https://end.searchforjohn.com/"
+Go to "https://www.namelessnanashi.dev/"
